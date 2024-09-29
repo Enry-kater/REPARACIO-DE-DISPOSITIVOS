@@ -2,7 +2,7 @@
 <body bgcolor="sky blue">
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>MI PAGINA WEED  DE PZ </title>
+  <title>MI PAGINA WEED  DE P-Z </title>
   <style>
     body {
       margin: 0;
@@ -79,8 +79,7 @@
 <body>
   <!-- Definimos el area del encabezado -->
   <div class="header">
-      <h1> TECNICO DE COMPUTADORA PZ  </h1>
-  </div>
+      <h1> TECNICO DE COMPUTADORA P-Z  </h1>
 
   <!-- Crear el menu -->
   <div class="topnav">
