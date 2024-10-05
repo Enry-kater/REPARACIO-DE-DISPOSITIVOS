@@ -10,7 +10,7 @@
 
     .header {
       padding: 5,0px;
-      RED-color: #f1f1f1;
+      SALMON-color: #f1f1f1;
       text-align: center;
     }
 
@@ -26,20 +26,20 @@
       display: block;
       color: #F2F2F2;
       text-align: center;
-      padding: 14px 16px;
+      padding: 15px 14px;
       text-decoration: none;
     }
 
     /* Animacion para el menu */
     .topnav a:hover {
       background-color: #ddd;
-      color: black
+      color: GREEN
     }
 
     /* Estilo para columnas */
     .row__column {
       float: left;
-      padding: 20px;
+      padding: 19px;
     }
 
     .row__column.side {
