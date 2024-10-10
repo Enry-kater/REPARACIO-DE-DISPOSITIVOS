@@ -1,16 +1,17 @@
+<!DOCTYPE html>
 <html lang="en">
 <body bgcolor="sky blue">
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>MI PAGINA WEED  DE P-Z </title>
-	
+  <title>MI PAGINA WEED  DE P </title>
+  <style>
     body {
       margin: 0;
     }
 
     .header {
       padding: 5,0px;
-      SALMON-color: #f1f1f1;
+      RED-color: #f1f1f1;
       text-align: center;
     }
 
@@ -26,20 +27,20 @@
       display: block;
       color: #F2F2F2;
       text-align: center;
-      padding: 15px 14px;
+      padding: 14px 16px;
       text-decoration: none;
     }
 
     /* Animacion para el menu */
     .topnav a:hover {
       background-color: #ddd;
-      color: GREEN
+      color: black
     }
 
     /* Estilo para columnas */
     .row__column {
       float: left;
-      padding: 19px;
+      padding: 20px;
     }
 
     .row__column.side {
@@ -79,14 +80,15 @@
 <body>
   <!-- Definimos el area del encabezado -->
   <div class="header">
-      <h1> TECNICO DE COMPUTADORA P-Z  </h1>
+      <h1> TECNICO DE COMPUTADORA E.Z  </h1>
+  </div>
 
   <!-- Crear el menu -->
   <div class="topnav">
    
   <!-- Crear el menu -->
   <div class="topnav">
-    <a href="https://www.mined.gob.sv/" ><img src="logo1.jpg" width="29" height="20"/>
+    <a href="https://https://enry-kater.github.io/formulario//" ><img src="logo.jpg" width="29" height="20"/>
 Inicio</a>
 	        <!--p align="rigth">MINED -->
     <a href="#">COMPROBAR ESTADO</a>
@@ -110,9 +112,9 @@ Inicio</a>
   <div class="row">`
     <div class="row__column side">
       <h2> EN QUE PODEMOS AYUDARTE</h2>
-      <p>CONTACTANOS AL NUMERO: 6852-9435  
+      <p>CONTACTANOS AL NUMERO: 6852-94789
        CON EL REPARADOR DE  EQUIPOS ELECTRONICOS
-Nombre: Ernesto</p>
+Nombre: ERNESTO MENDOZA</p>
     </div>
     <div class="row__column middle">
       <h2>suscribete anuestro canal de reparador de equipos Elecronicos </h2>
@@ -133,21 +135,20 @@ CAMPIOS DE PANTALLA
   <!-- inicio del piede de pagina -->
   <div class="footer">
     <p> <h3></h3> </p>
-<img src="logo1.jpg" width="400" height="200"/>
+<img src="1.jfif" width="400" height="200"/>
 
   </div>  
-  <audio controls> <source src="lapaz.mp3" type="audio/mp3"> Tu navegador no soporta audio HTML5. </audio>
- <img src="electronicos.jpg" width="400" height="200"/>
+  <audio controls> <source src="musica.m4a" type="audio/mp3"> Tu navegador no soporta audio HTML5. </audio>
+ <img src="2.jfif" width="400" height="200"/>
 <img src="reparando.jpg" width="400" height="200"/>
 
      <video width="600" height="400" controls>
-    <source src="hermosa.mp4" type="video/mp4">
+    <source src="compu.mp4" type="video/mp4">
        </video>
     
-	<a href="Base Access China.html"> Registros  </a> <br> 
+	<a href="Base Access China.html"></a> <br> 
 	
-	<A HREF="ernesto.html">  B hoja 1  </A> <br>
-    <A HREF="iindex.html"> A hoja 2  </A> <br>
+	<A HREF="https://enry-kater.github.io/formulario/">  https://enry-kater.github.io/formulario/ formulario  </A> <br>
 
 </body>
 
